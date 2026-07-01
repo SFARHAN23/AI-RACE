@@ -1,0 +1,288 @@
+[
+  {
+    "idx": 1,
+    "track": "f1_bahrain_sakhir",
+    "global_cam": "01_f1_bahrain_sakhir_global_cam.mp4",
+    "follow_cam": "01_f1_bahrain_sakhir_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 40.970878164239195,
+      "progress_laps": 0.409708781642392,
+      "track_length_m": 772.5098475816068
+    }
+  },
+  {
+    "idx": 2,
+    "track": "f1_saudi_jeddah",
+    "global_cam": "02_f1_saudi_jeddah_global_cam.mp4",
+    "follow_cam": "02_f1_saudi_jeddah_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 35.90455997609875,
+      "progress_laps": 0.35904559976098754,
+      "track_length_m": 881.3257105502393
+    }
+  },
+  {
+    "idx": 3,
+    "track": "f1_australia_melbourne",
+    "global_cam": "03_f1_australia_melbourne_global_cam.mp4",
+    "follow_cam": "03_f1_australia_melbourne_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 42.004089419767865,
+      "progress_laps": 0.42004089419767865,
+      "track_length_m": 753.3592622135999
+    }
+  },
+  {
+    "idx": 4,
+    "track": "f1_imola",
+    "global_cam": "04_f1_imola_global_cam.mp4",
+    "follow_cam": "04_f1_imola_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 45.110895253559995,
+      "progress_laps": 0.4511089525355999,
+      "track_length_m": 700.606555230297
+    }
+  },
+  {
+    "idx": 5,
+    "track": "f1_miami",
+    "global_cam": "05_f1_miami_global_cam.mp4",
+    "follow_cam": "05_f1_miami_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 40.971126405263966,
+      "progress_laps": 0.4097112640526397,
+      "track_length_m": 772.4613803490674
+    }
+  },
+  {
+    "idx": 6,
+    "track": "f1_spain_barcelona",
+    "global_cam": "06_f1_spain_barcelona_global_cam.mp4",
+    "follow_cam": "06_f1_spain_barcelona_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 47.53173567410687,
+      "progress_laps": 0.47531735674106873,
+      "track_length_m": 666.766666717225
+    }
+  },
+  {
+    "idx": 7,
+    "track": "f1_monaco",
+    "global_cam": "07_f1_monaco_global_cam.mp4",
+    "follow_cam": "07_f1_monaco_follow_cam.mp4",
+    "summary": {
+      "reason": "WRONG_DIR",
+      "steps": 17,
+      "progress_pct": -0.5050839894400511,
+      "progress_laps": -0.005050839894400511,
+      "track_length_m": 475.6492735793284
+    }
+  },
+  {
+    "idx": 8,
+    "track": "f1_azerbaijan_baku",
+    "global_cam": "08_f1_azerbaijan_baku_global_cam.mp4",
+    "follow_cam": "08_f1_azerbaijan_baku_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 37.01310462295271,
+      "progress_laps": 0.3701310462295271,
+      "track_length_m": 856.4624839945211
+    }
+  },
+  {
+    "idx": 9,
+    "track": "f1_canada_montreal",
+    "global_cam": "09_f1_canada_montreal_global_cam.mp4",
+    "follow_cam": "09_f1_canada_montreal_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 50.92385655710504,
+      "progress_laps": 0.5092385655710504,
+      "track_length_m": 622.2782444150317
+    }
+  },
+  {
+    "idx": 10,
+    "track": "f1_britain_silverstone",
+    "global_cam": "10_f1_britain_silverstone_global_cam.mp4",
+    "follow_cam": "10_f1_britain_silverstone_follow_cam.mp4",
+    "summary": {
+      "reason": "WRONG_DIR",
+      "steps": 13,
+      "progress_pct": 0.059454125136085445,
+      "progress_laps": 0.0005945412513608544,
+      "track_length_m": 840.8493095698807
+    }
+  },
+  {
+    "idx": 11,
+    "track": "f1_austria_spielberg",
+    "global_cam": "11_f1_austria_spielberg_global_cam.mp4",
+    "follow_cam": "11_f1_austria_spielberg_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 51.5439346429374,
+      "progress_laps": 0.5154393464293741,
+      "track_length_m": 615.8829448750859
+    }
+  },
+  {
+    "idx": 12,
+    "track": "f1_france_paul_ricard",
+    "global_cam": "12_f1_france_paul_ricard_global_cam.mp4",
+    "follow_cam": "12_f1_france_paul_ricard_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 38.09366658191768,
+      "progress_laps": 0.38093666581917685,
+      "track_length_m": 833.454620909001
+    }
+  },
+  {
+    "idx": 13,
+    "track": "f1_hungary_hungaroring",
+    "global_cam": "13_f1_hungary_hungaroring_global_cam.mp4",
+    "follow_cam": "13_f1_hungary_hungaroring_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 50.722456227726084,
+      "progress_laps": 0.5072245622772608,
+      "track_length_m": 625.0757456813055
+    }
+  },
+  {
+    "idx": 14,
+    "track": "f1_belgium_spa",
+    "global_cam": "14_f1_belgium_spa_global_cam.mp4",
+    "follow_cam": "14_f1_belgium_spa_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 31.702390421035954,
+      "progress_laps": 0.31702390421035953,
+      "track_length_m": 999.7228848743129
+    }
+  },
+  {
+    "idx": 15,
+    "track": "f1_netherlands_zandvoort",
+    "global_cam": "15_f1_netherlands_zandvoort_global_cam.mp4",
+    "follow_cam": "15_f1_netherlands_zandvoort_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 52.30567276689963,
+      "progress_laps": 0.5230567276689964,
+      "track_length_m": 606.95086408531
+    }
+  },
+  {
+    "idx": 16,
+    "track": "f1_italy_monza",
+    "global_cam": "16_f1_italy_monza_global_cam.mp4",
+    "follow_cam": "16_f1_italy_monza_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 38.23375824116299,
+      "progress_laps": 0.3823375824116299,
+      "track_length_m": 826.5891612888447
+    }
+  },
+  {
+    "idx": 17,
+    "track": "f1_singapore_marina_bay",
+    "global_cam": "17_f1_singapore_marina_bay_global_cam.mp4",
+    "follow_cam": "17_f1_singapore_marina_bay_follow_cam.mp4",
+    "summary": {
+      "reason": "WRONG_DIR",
+      "steps": 11,
+      "progress_pct": 0.0692188024286765,
+      "progress_laps": 0.0006921880242867651,
+      "track_length_m": 722.335309374977
+    }
+  },
+  {
+    "idx": 18,
+    "track": "f1_japan_suzuka",
+    "global_cam": "18_f1_japan_suzuka_global_cam.mp4",
+    "follow_cam": "18_f1_japan_suzuka_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 38.20269366251563,
+      "progress_laps": 0.3820269366251563,
+      "track_length_m": 828.4091391166467
+    }
+  },
+  {
+    "idx": 19,
+    "track": "f1_usa_cota",
+    "global_cam": "19_f1_usa_cota_global_cam.mp4",
+    "follow_cam": "19_f1_usa_cota_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 40.178724268096595,
+      "progress_laps": 0.40178724268096594,
+      "track_length_m": 786.4650266041994
+    }
+  },
+  {
+    "idx": 20,
+    "track": "f1_mexico_mexico_city",
+    "global_cam": "20_f1_mexico_mexico_city_global_cam.mp4",
+    "follow_cam": "20_f1_mexico_mexico_city_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 51.710843070252885,
+      "progress_laps": 0.5171084307025289,
+      "track_length_m": 614.1296773308965
+    }
+  },
+  {
+    "idx": 21,
+    "track": "f1_brazil_interlagos",
+    "global_cam": "21_f1_brazil_interlagos_global_cam.mp4",
+    "follow_cam": "21_f1_brazil_interlagos_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 51.54515186863386,
+      "progress_laps": 0.5154515186863386,
+      "track_length_m": 614.938465781104
+    }
+  },
+  {
+    "idx": 22,
+    "track": "f1_abu_dhabi_yas_marina",
+    "global_cam": "22_f1_abu_dhabi_yas_marina_global_cam.mp4",
+    "follow_cam": "22_f1_abu_dhabi_yas_marina_follow_cam.mp4",
+    "summary": {
+      "reason": "TIME_LIMIT",
+      "steps": 2000,
+      "progress_pct": 42.04323817601928,
+      "progress_laps": 0.4204323817601928,
+      "track_length_m": 753.7306778843719
+    }
+  }
+]

@@ -1,0 +1,196 @@
+{
+  "source_process": "proc_dd2628b5f8e0",
+  "exit_status": "exited",
+  "episodes_parsed": 524,
+  "episode_range": [
+    169,
+    692
+  ],
+  "final_total_steps": 5393114,
+  "final_train_steps": 5387423,
+  "latest_checkpoint": "v26_resume357_all_f1_2lap_538",
+  "final_model": "v26_resume357_all_f1_2lap_final",
+  "tracks_with_any_2lap_finish": 19,
+  "track_count": 22,
+  "finish_episode_count": 393,
+  "finish_rate_pct": 75.0,
+  "last_100_finish_rate_pct": 77.0,
+  "per_track": {
+    "f1_abu_dhabi_": {
+      "episodes": 24,
+      "finishes": 21,
+      "best_time_s": 189.48,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 681
+    },
+    "f1_australia_": {
+      "episodes": 24,
+      "finishes": 24,
+      "best_time_s": 189.7,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 684
+    },
+    "f1_austria_sp": {
+      "episodes": 24,
+      "finishes": 22,
+      "best_time_s": 155.8,
+      "latest_result": "RUNNING",
+      "latest_laps": 0,
+      "latest_ep": 692
+    },
+    "f1_azerbaijan": {
+      "episodes": 24,
+      "finishes": 14,
+      "best_time_s": 217.28,
+      "latest_result": "COLLISION",
+      "latest_laps": 0,
+      "latest_ep": 689
+    },
+    "f1_bahrain_sa": {
+      "episodes": 24,
+      "finishes": 24,
+      "best_time_s": 193.66,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 682
+    },
+    "f1_belgium_sp": {
+      "episodes": 23,
+      "finishes": 19,
+      "best_time_s": 251.78,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 673
+    },
+    "f1_brazil_int": {
+      "episodes": 24,
+      "finishes": 24,
+      "best_time_s": 154.66,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 680
+    },
+    "f1_britain_si": {
+      "episodes": 24,
+      "finishes": 1,
+      "best_time_s": 225.42,
+      "latest_result": "COLLISION",
+      "latest_laps": 0,
+      "latest_ep": 691
+    },
+    "f1_canada_mon": {
+      "episodes": 24,
+      "finishes": 21,
+      "best_time_s": 157.52,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 690
+    },
+    "f1_france_pau": {
+      "episodes": 23,
+      "finishes": 23,
+      "best_time_s": 210.68,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 671
+    },
+    "f1_hungary_hu": {
+      "episodes": 23,
+      "finishes": 22,
+      "best_time_s": 158.42,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 672
+    },
+    "f1_imola": {
+      "episodes": 24,
+      "finishes": 24,
+      "best_time_s": 177.44,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 685
+    },
+    "f1_italy_monz": {
+      "episodes": 24,
+      "finishes": 22,
+      "best_time_s": 209.24,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 675
+    },
+    "f1_japan_suzu": {
+      "episodes": 24,
+      "finishes": 0,
+      "best_time_s": null,
+      "latest_result": "WRONG_DIR",
+      "latest_laps": 0,
+      "latest_ep": 677
+    },
+    "f1_mexico_mex": {
+      "episodes": 24,
+      "finishes": 24,
+      "best_time_s": 154.8,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 679
+    },
+    "f1_miami": {
+      "episodes": 24,
+      "finishes": 20,
+      "best_time_s": 195.2,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 686
+    },
+    "f1_monaco": {
+      "episodes": 24,
+      "finishes": 0,
+      "best_time_s": null,
+      "latest_result": "WRONG_DIR",
+      "latest_laps": 0,
+      "latest_ep": 688
+    },
+    "f1_netherland": {
+      "episodes": 23,
+      "finishes": 17,
+      "best_time_s": 155.56,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 674
+    },
+    "f1_saudi_jedd": {
+      "episodes": 24,
+      "finishes": 24,
+      "best_time_s": 222.3,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 683
+    },
+    "f1_singapore_": {
+      "episodes": 24,
+      "finishes": 0,
+      "best_time_s": null,
+      "latest_result": "WRONG_DIR",
+      "latest_laps": 0,
+      "latest_ep": 676
+    },
+    "f1_spain_barc": {
+      "episodes": 24,
+      "finishes": 23,
+      "best_time_s": 168.9,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 687
+    },
+    "f1_usa_cota_1": {
+      "episodes": 24,
+      "finishes": 24,
+      "best_time_s": 198.74,
+      "latest_result": "FINISHED",
+      "latest_laps": 2,
+      "latest_ep": 678
+    }
+  }
+}
