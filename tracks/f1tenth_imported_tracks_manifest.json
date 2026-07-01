@@ -1,0 +1,13 @@
+{
+  "f1tenth_quick validation_oval": {
+    "label": "f1tenth_quick validation_oval",
+    "source_csv": "results\\f1tenth_gap_quick validation\\quick validation_f1tenth_centerline.csv",
+    "source_type": "f1tenth_centerline_or_raceline_csv",
+    "point_count": 80,
+    "target_length_m": 9.68595849426101,
+    "width_m": 1.2,
+    "scale": 1.0,
+    "centered": true,
+    "notes": "Imported for AIRACE simulator use; no TD3 training is started by this importer."
+  }
+}
